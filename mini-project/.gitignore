@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.db
+api_temp.json
+csv_temp.json
